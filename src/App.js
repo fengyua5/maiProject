@@ -39,9 +39,9 @@ function App() {
                                 key="sub1"
                                 title={
                                     <span>
-                <Icon type="user" />
-                subnav 1
-              </span>
+                                        <Icon type="user" />
+                                        subnav 1
+                                      </span>
                                 }
                             >
                                 <Menu.Item key="1">option1</Menu.Item>
